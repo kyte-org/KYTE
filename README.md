@@ -6,7 +6,9 @@ A social networking site restricted to college and the students enrolled there, 
 # Setup
 
 1.Clone the repository.
+
 2.Start xampp and add the kyte.sql file to a database named kyte.
+
 3.Navigate to localhost/KYTE-master/index.php.
 
 # Installing xampp
