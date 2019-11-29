@@ -12,7 +12,9 @@ A social networking site restricted to college and the students enrolled there, 
 # Installing xampp
 
 1.For Windows User: https://make.wordpress.org/core/handbook/tutorials/installing-a-local-server/xampp/
+
 2.For Linux Users: https://www.wikihow.com/Install-XAMPP-on-Linux
+
 3.For Mac Users: https://www.webucator.com/how-to/how-install-start-test-xampp-on-mac-osx.cfm
 
 # 1.1 Purpose
