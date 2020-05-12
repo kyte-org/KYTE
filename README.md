@@ -23,6 +23,12 @@ A social networking site restricted to college and the students enrolled there, 
 
 This Web Page defines the requirements for the Student Social Networking Site. The College Student seeks to develop a web portal, to be able to link the students with the colleges / universities. The Student portal will be a platform for students to submit their details and for colleges around the world to be able to view the profiles. This would also help students to network and interact to be able to make their choices. 
 
+# Sceenshots
+![SS](https://i.ibb.co/yXNYzt0/Screenshot-11.png)
+![SS](https://i.ibb.co/n6VzzqF/Screenshot-12.png)
+![SS](https://i.ibb.co/FbnXtWw/Screenshot-13.png)
+
+
 # 1.2 Features
 
 1. Responsive website
